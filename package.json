@@ -1,0 +1,12 @@
+{
+  "name": "ai-flashcards",
+  "version": "1.0.0",
+  "description": "Flashcards interativos para aprender conceitos de IA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
